@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDL7ISAHj7V1+j3s+eOMxyCL0SbARaezrDAF7jJbtJEiD1SJ3G62qfxvfTYoxb8B6ANjGmW8pmRltKr3ZXw0MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\ALURA\\C#\\byteBank_ADM\\byteBank_ADM\\byteBank_ADM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

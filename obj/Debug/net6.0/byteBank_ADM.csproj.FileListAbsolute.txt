@@ -1,0 +1,30 @@
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.exe
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.deps.json
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.runtimeconfig.json
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\refint\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ALURA\C#\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\ref\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.exe
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.deps.json
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.runtimeconfig.json
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\bin\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\refint\byteBank_ADM.dll
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.pdb
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\byteBank_ADM.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\ALURA\C#\FORMAÇÃO ORIENTAÇÃO A OBJETO\byteBank_ADM\byteBank_ADM\obj\Debug\net6.0\ref\byteBank_ADM.dll
